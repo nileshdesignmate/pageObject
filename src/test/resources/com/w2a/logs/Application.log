@@ -1,0 +1,13 @@
+14/11/2019 11:34:01 devpinoyLogger Config file loaded !!!
+14/11/2019 11:34:01 devpinoyLogger OR file loaded !!!
+14/11/2019 11:34:04 devpinoyLogger IE Browser Lunched !!!
+14/11/2019 11:34:12 devpinoyLogger Navigated to :- http://www.zoho.com/
+14/11/2019 11:34:22 devpinoyLogger Clicking on an Element :loginlink_CSS
+14/11/2019 11:34:26 devpinoyLogger Typing in an Element : email_CSSentred value :nilesh.designmate@gmail.com
+14/11/2019 11:34:26 devpinoyLogger Typing in an Element : password_CSSentred value :9924419242
+14/11/2019 11:34:27 devpinoyLogger Clicking on an Element :keepme_CSS
+14/11/2019 11:34:28 devpinoyLogger Clicking on an Element :signbtn_CSS
+14/11/2019 11:35:08 devpinoyLogger Clicking on an Element :crmlink_CSS
+14/11/2019 11:35:09 devpinoyLogger Clicking on an Element :accountstab_XPATH
+14/11/2019 11:35:13 devpinoyLogger Clicking on an Element :createaccountbtn_CSS
+14/11/2019 11:35:16 devpinoyLogger Typing in an Element : accountname_CSSentred value :JSCMNM
