@@ -33,6 +33,8 @@ import com.w2a.utilities.Utilities;
 
 public class Page {
 	
+	
+	//Just for test
 	public static WebDriver driver;
 	public static Properties config = new Properties();
 	public static Properties OR = new Properties();
